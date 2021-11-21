@@ -13,3 +13,4 @@ Currently, Master student of Computer Science at [Kazan Federal University](http
     <img src="https://img.shields.io/badge/-Git-F44D27?style=plastic&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white"/>
 </p>
+- [![tensorflow](./src/tensorflow.svg)](https://badges.aleen42.com/src/tensorflow.svg)

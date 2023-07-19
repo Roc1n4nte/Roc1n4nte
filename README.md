@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Valentin, 22 y.o.
+- I'm Valentin, 24 y.o.
 
 - Living in Russia, Kazan.
 
